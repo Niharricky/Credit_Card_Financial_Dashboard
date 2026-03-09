@@ -2,7 +2,7 @@
 
 > **Real-time weekly financial analytics dashboard tracking $57M in credit card revenue with 28.8% week-over-week growth**
 
-![Dashboard Preview](Customer.png)
+![Dashboard Preview](CC_Customer.png)
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
